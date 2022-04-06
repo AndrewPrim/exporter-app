@@ -4,5 +4,5 @@
 * run `composer install`
 * run `npm install`
 * run `npm run dev`
-* upload `sql` files to `storage/app/sql_files` directory
+* create forlder `sql_files` inside `storage/app/` directory and upload your `sql` files
 * run `php artisan serve`
