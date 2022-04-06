@@ -1,0 +1,5 @@
+*
+!public/
+!sql_files/
+!files/
+!.gitignore
